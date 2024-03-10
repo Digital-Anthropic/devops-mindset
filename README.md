@@ -71,7 +71,8 @@ DevOps builds the system for deployments but developers own the actualy deployme
 
 Developers EMPOWERED to deploy their own services.
 
-Why is developer empowerment important?
+## Why is developer empowerment important?
+
 - faster development cycles
 - faster feedback loops
 - faster time to market
@@ -81,13 +82,13 @@ DevOps must empower developers to be successful.
 
 Saves time and money.
 
-- logging and Metrics
+## Logging and Metrics
 
 We want developers to find logs and metrics.
 
 I pushed something and it's broken, and i have no idea how it's broken. We don't want this. Have you checked the logs?
 
-Key takeaways:
+## Key takeaways
 
 Give tools to developers to be more successful.
 DevOps is a limited resource shared across the company.
